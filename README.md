@@ -6,8 +6,6 @@ CodingAgent turns issues into reviewed, tested, multi-file changes inside a cont
 
 面向软件工程的 Agent：在受控执行环境中把 Issue 转化为经过审查和测试的多文件代码修改。
 
-**Status:** Project scaffold · [Portfolio](https://0x0addc001.github.io/#use-cases)
-
 ## Agent loop
 
 | Stage | Responsibility |
